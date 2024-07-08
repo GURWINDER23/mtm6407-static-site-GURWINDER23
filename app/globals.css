@@ -1,0 +1,29 @@
+/* app/globals.css */
+body {
+  padding-top: 10px;
+  background-color: #1b1b1b;
+  color: rgba(240, 248, 255, 0.763);
+}
+
+.header-image {
+  width: 100%;
+  height: auto;
+  max-height: 500px;
+  object-fit: contain;
+}
+
+.page-image {
+  width: 80%;
+  height: auto;
+  max-height: 380px;
+  object-fit: cover;
+  margin-bottom: 20px;
+  box-shadow: 0 3px 3px rgba(0, 0, 0, 1)
+
+}
+
+.lead {
+  width: 70%;
+  margin: 0 auto;
+}
+
